@@ -122,3 +122,8 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,jupyternotebooks
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
